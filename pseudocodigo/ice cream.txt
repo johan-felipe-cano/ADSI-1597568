@@ -1,0 +1,8 @@
+
+1. start
+2. put your shoes 
+3. walk to the ice cream shop
+4. buy a ice cream
+5. eat the ice cream
+6. walk to the house
+7. end
