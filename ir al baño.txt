@@ -1,0 +1,10 @@
+1. inicio
+2. ponerse las sandalias 
+3. caminar al baño
+4. abrir la puerta 
+5. utlizar el baño
+6. lavarse las manos
+7. secarse las manos 
+8. cerra la puerta 
+9. regresar al lugar de origen
+10. fin
